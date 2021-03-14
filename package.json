@@ -1,0 +1,26 @@
+{
+  "name": "botthc",
+  "version": "1.0.0",
+  "description": "%20%20%20%20%20%20%20%20%20%20%20%20%E2%9C%8C%F0%9F%8F%BB%F0%9F%8D%80%E2%9D%A4%EF%B8%8FOl%C3%A1%2C%20esse%20%C3%A9%20o%20botthc%20%F0%9F%A4%96%E2%9C%8C%F0%9F%8F%BB%F0%9F%92%9A%F0%9F%8D%81%0A%0A%0ADepois%20eu%20termino%20kkkkkkk%20%E2%9C%8C%F0%9F%8F%BB",
+  "main": "index.js",
+  "dependencies": {
+    "spdx-license-list": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "botthc"
+  },
+  "keywords": [
+    "bot",
+    "termux",
+    "whatsapp",
+    "bot",
+    "botthc"
+  ],
+  "author": "maux-sys",
+  "license": "MIT"
+}
